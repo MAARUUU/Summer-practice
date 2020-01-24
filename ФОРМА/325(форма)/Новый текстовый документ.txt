@@ -1,0 +1,14 @@
+ {
+            for (i=2;i<=(n/2);i++)
+            { if((n%i)==0)
+                {
+                    b = 0;
+                    for (a=2;a<=(i-1);a++)
+                    {
+                        if ((i % a) == 0) b++;
+                    }
+                    if (b==0)
+                        textBox2.Text = textBox2.Text + Convert.ToString(i) + ",";
+                }
+            }
+        }

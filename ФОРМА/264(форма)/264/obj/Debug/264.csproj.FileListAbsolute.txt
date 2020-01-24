@@ -1,0 +1,39 @@
+G:\С++\Forms\264\264\bin\Debug\264.exe.config
+G:\С++\Forms\264\264\bin\Debug\264.exe
+G:\С++\Forms\264\264\bin\Debug\264.pdb
+G:\С++\Forms\264\264\obj\Debug\264.csprojResolveAssemblyReference.cache
+G:\С++\Forms\264\264\obj\Debug\_264.z264.resources
+G:\С++\Forms\264\264\obj\Debug\_264.Properties.Resources.resources
+G:\С++\Forms\264\264\obj\Debug\264.csproj.GenerateResource.Cache
+G:\С++\Forms\264\264\obj\Debug\264.exe
+G:\С++\Forms\264\264\obj\Debug\264.pdb
+C:\Users\Наталья\Desktop\397\Forms\264\264\bin\Debug\264.exe.config
+C:\Users\Наталья\Desktop\397\Forms\264\264\bin\Debug\264.exe
+C:\Users\Наталья\Desktop\397\Forms\264\264\bin\Debug\264.pdb
+C:\Users\Наталья\Desktop\397\Forms\264\264\obj\Debug\264.csprojAssemblyReference.cache
+C:\Users\Наталья\Desktop\397\Forms\264\264\obj\Debug\_264.z264.resources
+C:\Users\Наталья\Desktop\397\Forms\264\264\obj\Debug\_264.Properties.Resources.resources
+C:\Users\Наталья\Desktop\397\Forms\264\264\obj\Debug\264.csproj.GenerateResource.cache
+C:\Users\Наталья\Desktop\397\Forms\264\264\obj\Debug\264.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\397\Forms\264\264\obj\Debug\264.exe
+C:\Users\Наталья\Desktop\397\Forms\264\264\obj\Debug\264.pdb
+F:\задачи на СИ\ФОРМА\259\264\bin\Debug\264.exe.config
+F:\задачи на СИ\ФОРМА\259\264\bin\Debug\264.exe
+F:\задачи на СИ\ФОРМА\259\264\bin\Debug\264.pdb
+F:\задачи на СИ\ФОРМА\259\264\obj\Debug\264.csprojAssemblyReference.cache
+F:\задачи на СИ\ФОРМА\259\264\obj\Debug\_264.z264.resources
+F:\задачи на СИ\ФОРМА\259\264\obj\Debug\_264.Properties.Resources.resources
+F:\задачи на СИ\ФОРМА\259\264\obj\Debug\264.csproj.GenerateResource.cache
+F:\задачи на СИ\ФОРМА\259\264\obj\Debug\264.csproj.CoreCompileInputs.cache
+F:\задачи на СИ\ФОРМА\259\264\obj\Debug\264.exe
+F:\задачи на СИ\ФОРМА\259\264\obj\Debug\264.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\bin\Debug\264.exe.config
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\bin\Debug\264.exe
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\bin\Debug\264.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\obj\Debug\264.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\obj\Debug\_264.z264.resources
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\obj\Debug\_264.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\obj\Debug\264.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\obj\Debug\264.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\obj\Debug\264.exe
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\264\264\obj\Debug\264.pdb

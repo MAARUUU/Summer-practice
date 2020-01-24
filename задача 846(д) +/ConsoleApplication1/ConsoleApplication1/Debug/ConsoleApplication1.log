@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(6): note: использование предварительно скомпилированного заголовка
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(44): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(63): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(70): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(70): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\наталья\desktop\задача 846(д)\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Наталья\Desktop\задача 846(д)\ConsoleApplication1\Debug\ConsoleApplication1.exe

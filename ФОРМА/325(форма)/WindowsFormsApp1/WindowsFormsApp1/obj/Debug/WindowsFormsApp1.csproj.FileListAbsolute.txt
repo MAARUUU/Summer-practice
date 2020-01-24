@@ -1,0 +1,40 @@
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Наталья\Desktop\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\ЗАДАЧА 325(ФОРМА)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\325(форма)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

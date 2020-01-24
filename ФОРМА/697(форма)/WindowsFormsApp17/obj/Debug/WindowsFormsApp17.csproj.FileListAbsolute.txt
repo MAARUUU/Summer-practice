@@ -1,0 +1,59 @@
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp3.Form1.resources
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.Cache
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+d:\мои документы\visual studio 2017\Projects\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+D:\Универ\с++\formy\702а\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+D:\Универ\с++\formy\702а\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+D:\Универ\с++\formy\702а\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+D:\Универ\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojResolveAssemblyReference.cache
+D:\Универ\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+D:\Универ\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+D:\Универ\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.Cache
+D:\Универ\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+D:\Универ\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+D:\Универ\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\Наталья\Desktop\рабочее\с++\formy\702а\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\Пользователь\Desktop\задачи на СИ\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\Пользователь\Desktop\задачи на СИ (практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\Пользователь\Desktop\задачи на СИ (летняя практика 2 семестр)\ФОРМА\697\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb

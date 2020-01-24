@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\пользователь\desktop\задачи на си\задача 137(д) +\consoleapplication1\consoleapplication1\consoleapplication1.cpp(6): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\пользователь\desktop\задачи на си\задача 137(д) +\consoleapplication1\consoleapplication1\consoleapplication1.cpp(6): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\пользователь\desktop\задачи на си\задача 137(д) +\consoleapplication1\consoleapplication1\consoleapplication1.cpp(11): note: использование предварительно скомпилированного заголовка
+c:\users\пользователь\desktop\задачи на си\задача 137(д) +\consoleapplication1\consoleapplication1\consoleapplication1.cpp(77): warning C4101: sum: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Пользователь\Desktop\задачи на СИ\задача 137(д) +\ConsoleApplication1\Debug\ConsoleApplication1.exe
